@@ -1,5 +1,8 @@
 # UGA Library Database Project
 
+# Team Name:
+Query Crew
+
 ## Team Members
 1. Harsh Patel
 2. Oliver Schouest
