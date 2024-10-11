@@ -32,7 +32,10 @@ Our database supports tracking of student and staff information, book inventory,
 ![Data Model](data_model.png)
 
 ## Data Dictionary
-<img width="683" alt="Screenshot 2024-10-11 at 1 16 14 PM" src="https://github.com/user-attachments/assets/c6ef2110-6d1f-4c04-a137-c25298618ef8">
+<img width="694" alt="Screenshot 2024-10-11 at 1 46 25 PM" src="https://github.com/user-attachments/assets/c4c5ac1d-df87-4e6b-81e1-7c2ed5c99416">
+<img width="694" alt="Screenshot 2024-10-11 at 1 51 23 PM" src="https://github.com/user-attachments/assets/653ff6b9-ce2b-4a3b-a8b0-ea76aa6cae66">
+
+
 
 
 
