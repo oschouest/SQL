@@ -36,10 +36,5 @@ Our database supports tracking of student and staff information, book inventory,
 <img width="694" alt="Screenshot 2024-10-11 at 1 51 23 PM" src="https://github.com/user-attachments/assets/653ff6b9-ce2b-4a3b-a8b0-ea76aa6cae66">
 
 
-
-
-
-The data dictionary provides a detailed explanation of all tables, including columns, data types, and relationships. [See Data Dictionary](data_dictionary.md)
-
 ## SQL Queries
 
