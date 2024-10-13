@@ -37,4 +37,40 @@ Our database supports tracking of student and staff information, book inventory,
 
 
 ## SQL Queries
+Total fines collected by each branch
+
+SELECT m.Branch_Name, SUM(f.Amount) AS Total_Fines 
+FROM Fines f 
+JOIN Student s ON f.Student_ID = s.Student_ID 
+JOIN Memberships m ON s.Student_ID = m.Student_ID 
+WHERE f.Status = 'Paid' 
+GROUP BY m.Branch_Name 
+ORDER BY Total_Fines DESC;
+
+Authors who have the most books borrowed
+
+SELECT a.First_Name, a.Last_Name, COUNT(b.ISBN) AS Total_Borrowed 
+FROM Authors a 
+JOIN Book_Authors ba ON a.Author_ID = ba.Author_ID 
+JOIN Book b ON ba.ISBN = b.ISBN 
+JOIN Borrowing br ON b.ISBN = br.ISBN 
+GROUP BY a.Author_ID, a.First_Name, a.Last_Name 
+ORDER BY Total_Borrowed DESC;
+
+Most borrowed books by genre
+
+SELECT bc.Genre, bk.Title, COUNT(br.Borrowing_ID) AS Borrow_Count 
+FROM Borrowing br 
+JOIN Book bk ON br.ISBN = bk.ISBN 
+JOIN Book_Category bc ON bk.ISBN = bc.Book_ID 
+GROUP BY bc.Genre, bk.Title 
+ORDER BY bc.Genre, Borrow_Count DESC;
+
+Average fine amount per student
+
+SELECT s.Student_ID, s.First_Name, s.Last_Name, AVG(f.Amount) AS Average_Fine 
+FROM Student s 
+JOIN Fines f ON s.Student_ID = f.Student_ID 
+GROUP BY s.Student_ID, s.First_Name, s.Last_Name 
+ORDER BY Average_Fine DESC;
 
