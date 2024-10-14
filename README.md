@@ -33,6 +33,10 @@ The UGA Library is modernizing its operations by creating a new database to effi
 <img width="639" alt="Screenshot 2024-10-13 at 10 57 10 PM" src="https://github.com/user-attachments/assets/23cc0e2d-7219-4509-8f09-fd44793fb0a6">
 
 ## SQL Queries
+
+<img width="758" alt="Screenshot 2024-10-13 at 11 04 48 PM" src="https://github.com/user-attachments/assets/a69bd477-cc1e-4b1a-a680-e22afb198f7a">
+
+
 Summary of the Queries' Complexity:
 Complex Queries:
 Most Borrowed Book by Genre,
