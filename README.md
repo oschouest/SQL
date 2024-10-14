@@ -4,7 +4,7 @@
 Query Crew
 
 ## Team Members
-1. Harsh Patel 
+1. Harsh Patel @03harshp
 2. Oliver Schouest @oschouest 
 3. Hormis Thaliath @Hormist
 4. Kevin Yin @kwy58676
