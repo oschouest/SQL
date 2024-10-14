@@ -29,9 +29,8 @@ The UGA Library is modernizing its operations by creating a new database to effi
 <img width="394" alt="Screenshot 2024-10-13 at 10 42 08 PM" src="https://github.com/user-attachments/assets/1f45254a-7fcb-4b41-96b0-e63ab1d5f465">
 
 ## Data Dictionary
-<img width="694" alt="Screenshot 2024-10-11 at 1 46 25 PM" src="https://github.com/user-attachments/assets/c4c5ac1d-df87-4e6b-81e1-7c2ed5c99416">
-<img width="694" alt="Screenshot 2024-10-11 at 1 51 23 PM" src="https://github.com/user-attachments/assets/653ff6b9-ce2b-4a3b-a8b0-ea76aa6cae66">
-
+<img width="694" alt="Screenshot 2024-10-13 at 10 55 58 PM" src="https://github.com/user-attachments/assets/c97e804d-f758-4950-9cef-782adc3e966c">
+<img width="639" alt="Screenshot 2024-10-13 at 10 57 10 PM" src="https://github.com/user-attachments/assets/23cc0e2d-7219-4509-8f09-fd44793fb0a6">
 
 ## SQL Queries
 Summary of the Queries' Complexity:
