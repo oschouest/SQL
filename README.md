@@ -4,11 +4,11 @@
 Query Crew
 
 ## Team Members
-1. Harsh Patel
-2. Oliver Schouest
+1. Harsh Patel 
+2. Oliver Schouest 
 3. Hormis Thaliath
-4. Kevin Yin
-5. Ishaan Nassar
+4. Kevin Yin @kwy58676
+5. Ishaan Nassar 
 
 ## Project Scenario
 
@@ -103,7 +103,11 @@ This query calculates the total number of books in the library's collection that
 <img width="626" alt="Screenshot 2024-10-13 at 10 51 10 PM" src="https://github.com/user-attachments/assets/6511ff30-886a-43a5-bc11-c313541e6045">
 
 
+## Database Information 
 
+Name of the Database: cs_ots27622
+
+Addional Informations: Each query listed above is marked in the database using stored procedures which can be called using the following format: cs_ots27622
 
 
 
