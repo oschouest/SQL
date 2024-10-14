@@ -16,11 +16,11 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 ### Key Entities:
 - **Book**: Tracks ISBN, Title, Genre, Publication Date, and Associated Publisher.
-- **Author**: Stores author details including First Name, Last Name, and Date of Birth.
+- **Author**: Stores Author Details Including First Name, Last Name, and Date of Birth.
 - **Student**: Captures Student ID, Name, and Major.
 - **Staff**: Tracks Employee ID, Name, and Position.
 - **Borrowing**: Monitors Student Borrowing History, Book Borrowed, and Return Date.
-- **Fines**: Manages Student Fines, Including Amounts and Status (paid or unpaid).
+- **Fines**: Manages Student Fines, Including Amounts and Status (Paid or Unpaid).
 - **Library Branch**: Locations of Library Branches.
 - **Feedback**: Gathers Feedback From Students and Staff.
 - **Membership**: Manages Membership Details Including Type, Start/End Dates, and Renewal Status.
