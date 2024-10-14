@@ -57,14 +57,6 @@ JOIN Borrowing br ON b.ISBN = br.ISBN
 GROUP BY a.Author_ID, a.First_Name, a.Last_Name 
 ORDER BY Total_Borrowed DESC;
 
-Most borrowed books by genre
-
-SELECT bc.Genre, bk.Title, COUNT(br.Borrowing_ID) AS Borrow_Count 
-FROM Borrowing br 
-JOIN Book bk ON br.ISBN = bk.ISBN 
-JOIN Book_Category bc ON bk.ISBN = bc.Book_ID 
-GROUP BY bc.Genre, bk.Title 
-ORDER BY bc.Genre, Borrow_Count DESC;
 
 Average fine amount per student
 
