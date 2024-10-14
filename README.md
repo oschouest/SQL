@@ -15,15 +15,15 @@ Query Crew
 The UGA Library is modernizing its operations by creating a new database to efficiently track book inventory, student borrowing activities, staff operations, fines, and membership management. This system will streamline processes and provide valuable insights into resource usage and student needs.
 
 ### Key Entities:
-- **Book**: Tracks ISBN, title, genre, publication date, and associated publisher.
-- **Author**: Stores author details including first name, last name, and date of birth.
-- **Student**: Captures student ID, name, and major.
-- **Staff**: Tracks employee ID, name, and position.
-- **Borrowing**: Monitors student borrowing history, book borrowed, and return date.
-- **Fines**: Manages student fines, including amounts and status.
-- **Library Branch**: Locations of library branches.
-- **Feedback**: Gathers feedback from students and staff.
-- **Membership**: Manages membership details including type, start/end dates, and renewal status.
+- **Book**: Tracks ISBN, Title, Genre, Publication Date, and Associated Publisher.
+- **Author**: Stores author details including First Name, Last Name, and Date of Birth.
+- **Student**: Captures Student ID, Name, and Major.
+- **Staff**: Tracks Employee ID, Name, and Position.
+- **Borrowing**: Monitors Student Borrowing History, Book Borrowed, and Return Date.
+- **Fines**: Manages Student Fines, Including Amounts and Status (paid or unpaid).
+- **Library Branch**: Locations of Library Branches.
+- **Feedback**: Gathers Feedback From Students and Staff.
+- **Membership**: Manages Membership Details Including Type, Start/End Dates, and Renewal Status.
 
 ## Data Model
 
