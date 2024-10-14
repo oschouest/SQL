@@ -39,17 +39,17 @@ Our database supports tracking of student and staff information, book inventory,
 ## SQL Queries
 Summary of the Queries' Complexity:
 Complex Queries:
-Most Borrowed Book by Genre
-Authors with the Most Books Borrowed
-Books Borrowed the Least Amount of Times
-Student Who Borrows the Most Books
-Overdue Books (Moderate)
+Most Borrowed Book by Genre,
+Authors with the Most Books Borrowed,
+Books Borrowed the Least Amount of Times,
+Student Who Borrows the Most Books,
+Overdue Books (Moderate),
 Total Fines Collected by Each Branch (Moderate)
 
 Simple Queries:
-Total Fines Owed by Each Student
-Average Fine Amount per Student
-Number of Times Each Book Has Been Borrowed
+Total Fines Owed by Each Student,
+Average Fine Amount per Student,
+Number of Times Each Book Has Been Borrowed,
 Number of Books Published by Each Publisher
 
 
