@@ -45,6 +45,7 @@ Books Borrowed the Least Amount of Times
 Student Who Borrows the Most Books
 Overdue Books (Moderate)
 Total Fines Collected by Each Branch (Moderate)
+
 Simple Queries:
 Total Fines Owed by Each Student
 Average Fine Amount per Student
