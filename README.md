@@ -5,10 +5,10 @@ Query Crew
 
 ## Team Members
 1. Harsh Patel 
-2. Oliver Schouest 
-3. Hormis Thaliath
+2. Oliver Schouest @oschouest 
+3. Hormis Thaliath @Hormist
 4. Kevin Yin @kwy58676
-5. Ishaan Nassar 
+5. Ishaan Nassar @inn923
 
 ## Project Scenario
 
