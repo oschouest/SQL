@@ -26,7 +26,7 @@ The UGA Library is modernizing its operations by creating a new database to effi
 - **Membership**: Manages Membership Details Including Type, Start/End Dates, and Renewal Status.
 
 ## Data Model
-<img width="393" alt="Screenshot 2024-10-13 at 10 40 31 PM" src="https://github.com/user-attachments/assets/dd2be364-40e8-49f9-b753-472b7e4d0141">
+<img width="394" alt="Screenshot 2024-10-13 at 10 42 08 PM" src="https://github.com/user-attachments/assets/1f45254a-7fcb-4b41-96b0-e63ab1d5f465">
 
 ## Data Dictionary
 <img width="694" alt="Screenshot 2024-10-11 at 1 46 25 PM" src="https://github.com/user-attachments/assets/c4c5ac1d-df87-4e6b-81e1-7c2ed5c99416">
