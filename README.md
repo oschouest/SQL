@@ -18,6 +18,7 @@ The UGA Library is modernizing its operations by creating a new database to effi
 - **Book**: Tracks ISBN, Title, Genre, Publication Date, and Associated Publisher.
 - **Author**: Stores Author Details Including First Name, Last Name, and Date of Birth.
 - **Student**: Captures Student ID, Name, and Major.
+- **Publishers**: Branch ID, Branch Name, and location
 - **Staff**: Tracks Employee ID, Name, and Position.
 - **Borrowing**: Monitors Student Borrowing History, Book Borrowed, and Return Date.
 - **Fines**: Manages Student Fines, Including Amounts and Status (Paid or Unpaid).
@@ -55,7 +56,6 @@ Number of Books Published by Each Publisher
 Query 1: Overdue Books
 This query shows all books that are overdue, including the book title, the student's name, and the return date. It helps the library track which books have not been returned on time and who has borrowed them.
 
-<img width="633" alt="Screenshot 2024-10-13 at 10 46 09 PM" src="https://github.com/user-attachments/assets/b1ec084c-cb5c-462f-a369-d2c9cf171df3">
 
 Query 2: Most borrowed book by genre
 This query lists the most borrowed books in each genre. It helps the library understand which books are most popular with students, aiding in future acquisition decisions.
