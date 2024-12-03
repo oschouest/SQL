@@ -54,6 +54,7 @@ This query shows all books that are overdue, including the book title, the stude
 Query 2: Who are the Top Borrowers
 
 This query lists the most borrowed books in each genre. It helps the library understand which books are most popular with students, aiding in future acquisition decisions.
+
 <img width="398" alt="Screenshot 2024-12-03 at 5 46 34 PM" src="https://github.com/user-attachments/assets/cf05232d-e71a-4974-96c5-7f2c8e077e03">
 
 Query 3: Revenue Forecast by Membership Type
