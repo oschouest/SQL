@@ -40,67 +40,43 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 Summary of the Queries' Complexity:
 Complex Queries:
-Most Borrowed Book by Genre,
-Authors with the Most Books Borrowed,
-Books Borrowed the Least Amount of Times,
-Student Who Borrows the Most Books,
-Overdue Books (Moderate),
-Total Fines Collected by Each Branch (Moderate)
+Branches with Most Borrowed Books
+Who are the Top Borrowers
+Revenue Forecast by Membership Type
+Feedback Analysis by Branch
+Popular Genres by Borrowing
 
-Simple Queries:
-Total Fines Owed by Each Student,
-Average Fine Amount per Student,
-Number of Times Each Book Has Been Borrowed,
-Number of Books Published by Each Publisher
-
-Query 1: Overdue Books
+Query 1: Branches with Most Borrowed Books
 This query shows all books that are overdue, including the book title, the student's name, and the return date. It helps the library track which books have not been returned on time and who has borrowed them.
 
 
-Query 2: Most borrowed book by genre
+Query 2: Who are the Top Borrowers
 This query lists the most borrowed books in each genre. It helps the library understand which books are most popular with students, aiding in future acquisition decisions.
 
 <img width="623" alt="Screenshot 2024-10-13 at 10 46 46 PM" src="https://github.com/user-attachments/assets/1d5f1d2c-4a90-412b-a206-ee08ab02e4e3">
 
-Query 3: Total fines owed by each student
-This query calculates the total unpaid fines for each student. It shows the student's name and the total amount they owe. This helps the library keep track of outstanding fines and follow up on them.
+Query 3: Revenue Forecast by Membership Type
+This query estimates potential revenue based on the number of Regular and Premium memberships. The memberships table provides the foundation for this calculation. With this data, we can see how different membership tiers contribute to overall revenue and target specific branches for membership campaigns. This is crucial for financial planning and identifying opportunities to boost membership-driven revenue.
+
 
 <img width="625" alt="Screenshot 2024-10-13 at 10 47 24 PM" src="https://github.com/user-attachments/assets/90afa6d5-cb12-486a-9c97-ce2c57c46cfd">
 
-Query 4: Total fines collected by each branch
-This query calculates the total amount of fines collected by each library branch. It helps the library track how much revenue is generated from fines at different locations, providing insight into usage patterns and payment behavior across branches.
+Query 4: Feedback Analysis by Branch
+This query analyzes user feedback by branch and type (e.g., complaints, praise, or suggestions). It joins the feedback and branches tables.The results help pinpoint branches with higher complaint rates, allowing us to address specific issues.For example, a branch with many complaints about noise levels may need stricter quiet zone policies, while branches with high praise can serve as models for others.
 
 <img width="625" alt="Screenshot 2024-10-13 at 10 47 53 PM" src="https://github.com/user-attachments/assets/8e06cb30-1599-481f-a177-b0db5558f381">
 
-Query 5: Authors who have the most books borrowed
-This query identifies the authors whose books have been borrowed the most. The library can use this information to understand which authors are most popular among students and readers.
+Query 5: Popular Genres by Borrowing
+This query identifies the most borrowed book genres by joining the books, bookCategories, and borrowings tables. The results highlight popular genres, which helps optimize collection development. It ensures that the library invests in books that align with user preferences. This insight can also inform marketing efforts, such as genre-specific reading challenges or book club promotions.
 
 <img width="624" alt="Screenshot 2024-10-13 at 10 48 23 PM" src="https://github.com/user-attachments/assets/3f4deba4-a5a1-4e75-b7b6-c4f589b06096">
 
-Query 6: Average fine amount per student
-This query calculates the average fine amount per student, providing insight into borrowing and returning behaviors. This information can help the library identify trends, such as frequent late returns, and design initiatives like reminders or extended return policies to minimize overdue fines and improve student satisfaction.
+Visualization 1:
 
-<img width="625" alt="Screenshot 2024-10-13 at 10 48 50 PM" src="https://github.com/user-attachments/assets/73e3ae9c-5e4c-4be4-9077-70c5bf175b83">
+Visualization 2:
 
-Query 7: Books borrowed the least amount of times
-This query identifies the books that have been borrowed the fewest number of times. It counts how many times each book's ISBN appears in the borrowing table and returns the books with the lowest borrowing count. This helps the library keep track of what books are the least popular so they can make sure not to overstock certain books, or replace them with more popular titles. 
+Visualization 3:
 
-<img width="627" alt="Screenshot 2024-10-13 at 10 49 22 PM" src="https://github.com/user-attachments/assets/f1071b1a-f210-416f-9741-1cfeab4f4041">
-
-Query 8: Student who borrows the most books
-This query finds the student who has borrowed the most books. This information can be useful for understanding the interests and needs of frequent borrowers, offering them personalized recommendations, or targeting specific programs or events to highly active library users.
-
-<img width="625" alt="Screenshot 2024-10-13 at 10 50 01 PM" src="https://github.com/user-attachments/assets/cf351d0b-2763-4d9f-807d-163c971cc3fc">
-
-Query 9: Amount of times each book has been borrowed 
-This query shows how many times each book has been borrowed by counting the number of times each book's ISBN appears in the borrowing table. It provides a ranked list of books based on their borrowing frequency, which can be used to guide purchasing decisions for additional copies, ensure availability of popular items, and help the library cater to trends in user interests.
-
-<img width="625" alt="Screenshot 2024-10-13 at 10 50 30 PM" src="https://github.com/user-attachments/assets/f3e3c1e3-ec8d-4014-9f1f-a392765ba365">
-
-Query 10: Number of books published by each publisher
-This query calculates the total number of books in the library's collection that are associated with each publisher. It helps the library assess the contribution of different publishers to its collection and the diversification of materials from various publishing houses to meet the needs of the library’s users.
-
-<img width="626" alt="Screenshot 2024-10-13 at 10 51 10 PM" src="https://github.com/user-attachments/assets/6511ff30-886a-43a5-bc11-c313541e6045">
 
 
 ## Database Information 
