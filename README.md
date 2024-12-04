@@ -80,13 +80,13 @@ This query identifies the most borrowed book genres by joining the books, bookCa
 
 This visualization shows the different types of memeberships across the five branch. The memberships are broken up into a Premium or Regular type of membership. We can see that Augusta has the most memberships overall, with majority of their members being Premium. Athens currently has the fewest memberships, with members only having Regular memberships. Overall, the Premium memberships are the most popular across all branch besides Athens. 
 
-**Visualization 2:**
+**Visualization 2:** Borrowing Statistic of 2023
 
 ![Vis 2](https://github.com/user-attachments/assets/c2b2b211-5458-4e40-8136-913f28b4aa90)
 
 This line chart shows borrowing trends throughout 2023, with the number of books borrowed on the vertical axis and the months on the horizontal axis. Borrowing starts off strong in January, drops sharply in February, fluctuates from March to August, peaks in September, and then falls steeply from October to nearly zero by November and December.
 
-**Visualization 3:**
+**Visualization 3:** Feedback from Branches in 2023
 
 ![Vis 3](https://github.com/user-attachments/assets/360f6bab-8762-44d7-ae81-1de6c3a7beec)
 
