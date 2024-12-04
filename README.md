@@ -72,7 +72,12 @@ This query identifies the most borrowed book genres by joining the books, bookCa
 <img width="285" alt="Screenshot 2024-12-03 at 5 47 13 PM" src="https://github.com/user-attachments/assets/e81ceffc-0566-4cf9-a61f-80b3cbefb48d">
 
 
-**Visualization 1:**
+
+**Visualization 1:** 
+
+<img width="292" alt="Screenshot 2024-12-03 at 7 24 28 PM" src="https://github.com/user-attachments/assets/daeff4f7-e377-4300-94ef-787ce096ae6e">
+
+This visualization shows the different types of memeberships across five different branch. The memberships are broken up into a Premium or Regualar type. We can see that Augusta has the most memberships overall, with majority of their members being Premium. Athens currently has the fewest memberships, with members only having regular memberships. Overall, the Premium memberships are the most common across all branch besides Athens. 
 
 **Visualization 2:**
 
