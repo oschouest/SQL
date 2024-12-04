@@ -90,6 +90,7 @@ This line chart shows borrowing trends throughout 2023, with the number of books
 
 ![Vis 3](https://github.com/user-attachments/assets/360f6bab-8762-44d7-ae81-1de6c3a7beec)
 
+This heatmap displays feedback sentiment by branch over the months of the year, where the color intensity indicates the count of feedback received (green for higher counts and red for lower counts). Each row represents a branch, and each column represents a month. Key observations include variations in feedback volume across branches and months, with some branches like Augusta and Atlanta showing higher feedback activity during certain months, while others like Savannah and Athens have moreinconsistent feedback patterns. This visualization can help identify periods of high engagement and areas that may need more attention for feedback collection.
 
 
 ## Database Information 
