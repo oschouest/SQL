@@ -83,7 +83,7 @@ This visualization shows the different types of memeberships across the five bra
 
 ![Vis 2](https://github.com/user-attachments/assets/c2b2b211-5458-4e40-8136-913f28b4aa90)
 
-
+This line chart shows borrowing trends throughout 2023, with the number of books borrowed on the vertical axis and the months on the horizontal axis. Borrowing starts off strong in January, drops sharply in February, fluctuates from March to August, peaks in September, and then falls steeply from October to nearly zero by November and December.
 
 **Visualization 3:**
 
