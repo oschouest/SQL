@@ -35,8 +35,7 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 ## SQL Queries
 
-<img width="758" alt="Screenshot 2024-10-13 at 11 04 48 PM" src="https://github.com/user-attachments/assets/a69bd477-cc1e-4b1a-a680-e22afb198f7a">
-
+<img width="486" alt="Screenshot 2024-12-03 at 5 52 39 PM" src="https://github.com/user-attachments/assets/421e85ec-3ffb-4f9d-81d0-971e0f9f3db9">
 
 Summary of the Queries' Complexity:
 Complex Queries:
@@ -50,6 +49,7 @@ Query 1: Branches with Most Borrowed Books
 
 This query shows all books that are overdue, including the book title, the student's name, and the return date. It helps the library track which books have not been returned on time and who has borrowed them.
 
+<img width="451" alt="Screenshot 2024-12-03 at 5 46 20 PM" src="https://github.com/user-attachments/assets/273bc75d-d955-41f6-be7f-da5d71b836f5">
 
 Query 2: Who are the Top Borrowers
 
@@ -60,16 +60,19 @@ This query lists the most borrowed books in each genre. It helps the library und
 Query 3: Revenue Forecast by Membership Type
 
 This query estimates potential revenue based on the number of Regular and Premium memberships. The memberships table provides the foundation for this calculation. With this data, we can see how different membership tiers contribute to overall revenue and target specific branches for membership campaigns. This is crucial for financial planning and identifying opportunities to boost membership-driven revenue.
+
 <img width="383" alt="Screenshot 2024-12-03 at 5 46 49 PM" src="https://github.com/user-attachments/assets/2a899927-dabf-404d-b6a3-e4fe3a117358">
 
 Query 4: Feedback Analysis by Branch
 
 This query analyzes user feedback by branch and type (e.g., complaints, praise, or suggestions). It joins the feedback and branches tables.The results help pinpoint branches with higher complaint rates, allowing us to address specific issues.For example, a branch with many complaints about noise levels may need stricter quiet zone policies, while branches with high praise can serve as models for others.
+
 <img width="304" alt="Screenshot 2024-12-03 at 5 47 01 PM" src="https://github.com/user-attachments/assets/16da4417-7908-4018-86b7-c8f893210774">
 
 Query 5: Popular Genres by Borrowing
 
 This query identifies the most borrowed book genres by joining the books, bookCategories, and borrowings tables. The results highlight popular genres, which helps optimize collection development. It ensures that the library invests in books that align with user preferences. This insight can also inform marketing efforts, such as genre-specific reading challenges or book club promotions.
+
 <img width="285" alt="Screenshot 2024-12-03 at 5 47 13 PM" src="https://github.com/user-attachments/assets/e81ceffc-0566-4cf9-a61f-80b3cbefb48d">
 
 
