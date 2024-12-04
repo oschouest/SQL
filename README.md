@@ -44,7 +44,7 @@ Summary of the Queries:
 Branches with Most Borrowed Books, Who are the Top Borrowers, Revenue Forecast by Membership Type, Feedback Analysis by Branch, Popular Genres by Borrowing
 
 **Query 1:** Branches with Most Borrowed Books
-
+This query displays the amount of books borrowed by branch, ordered by most to least amount. This information can help library management identify which branches are operating strongly and which branches to focus on with targeted marketing campaigns in order to increase the amount of students borrowing books and ultimately increase revenue. 
 
 
 ![Q1 P2](https://github.com/user-attachments/assets/9d58463f-7c49-4765-81a0-1b27016b5958)
