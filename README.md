@@ -36,7 +36,8 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 ## SQL Queries
 
-<img width="486" alt="Screenshot 2024-12-03 at 5 52 39 PM" src="https://github.com/user-attachments/assets/421e85ec-3ffb-4f9d-81d0-971e0f9f3db9">
+<img width="519" alt="Screenshot 2024-12-03 at 8 29 58 PM" src="https://github.com/user-attachments/assets/daa6d8cf-5e0b-4418-a6d3-97a6036df9d8">
+
 
 Summary of the Queries:
 
