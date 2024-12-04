@@ -37,13 +37,17 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 <img width="486" alt="Screenshot 2024-12-03 at 5 52 39 PM" src="https://github.com/user-attachments/assets/421e85ec-3ffb-4f9d-81d0-971e0f9f3db9">
 
-Summary of the Queries' Complexity:
-Complex Queries:
-Branches with Most Borrowed Books
-Who are the Top Borrowers
-Revenue Forecast by Membership Type
-Feedback Analysis by Branch
-Popular Genres by Borrowing
+Summary of the Queries:
+
+**Branches with Most Borrowed Books**
+
+**Who are the Top Borrowers**
+
+**Revenue Forecast by Membership Type**
+
+**Feedback Analysis by Branch**
+
+**Popular Genres by Borrowing**
 
 **Query 1:** Branches with Most Borrowed Books
 
