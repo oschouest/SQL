@@ -42,8 +42,9 @@ The UGA Library is modernizing its operations by creating a new database to effi
 Summary of the Queries:
 
 Branches with Most Borrowed Books, Who are the Top Borrowers, Revenue Forecast by Membership Type, Feedback Analysis by Branch, Popular Genres by Borrowing
-
+![Q1 P2](https://github.com/user-attachments/assets/9d58463f-7c49-4765-81a0-1b27016b5958)
 **Query 1:** Branches with Most Borrowed Books
+
 
 This query shows all books that are overdue, including the book title, the student's name, and the return date. It helps the library track which books have not been returned on time and who has borrowed them.
 
