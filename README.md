@@ -39,15 +39,7 @@ The UGA Library is modernizing its operations by creating a new database to effi
 
 Summary of the Queries:
 
-**Branches with Most Borrowed Books**
-
-**Who are the Top Borrowers**
-
-**Revenue Forecast by Membership Type**
-
-**Feedback Analysis by Branch**
-
-**Popular Genres by Borrowing**
+Branches with Most Borrowed Books, Who are the Top Borrowers, Revenue Forecast by Membership Type, Feedback Analysis by Branch, Popular Genres by Borrowing
 
 **Query 1:** Branches with Most Borrowed Books
 
@@ -57,7 +49,7 @@ This query shows all books that are overdue, including the book title, the stude
 
 **Query 2:** Who are the Top Borrowers
 
-This query lists the students who borrow the most books. It helps the library understand who is using checking out the most book and can create a reward system to whoever borrows the most books in the month or semester. 
+This query lists the students who borrow the most books. This can help the library identify the students checking out the most books and can create a reward system to recognize and incentivize the students who borrows the highest number of books within a given month or semester.
 
 <img width="398" alt="Screenshot 2024-12-03 at 5 46 34 PM" src="https://github.com/user-attachments/assets/cf05232d-e71a-4974-96c5-7f2c8e077e03">
 
@@ -69,7 +61,7 @@ This query estimates potential revenue based on the number of Regular and Premiu
 
 **Query 4:** Feedback Analysis by Branch
 
-This query analyzes user feedback by branch and type (e.g., complaints, praise, or suggestions). It joins the feedback and branches tables.The results help pinpoint branches with higher complaint rates, allowing us to address specific issues.For example, a branch with many complaints about noise levels may need stricter quiet zone policies, while branches with high praise can serve as models for others.
+This query analyzes user feedback by branch and type (e.g., complaints, praise, or suggestions). It joins the feedback and branches tables. The results help pinpoint branches with higher complaint rates, allowing us to address specific issues.For example, a branch with many complaints about noise levels may need stricter quiet zone policies, while branches with high praise can serve as models for others.
 
 <img width="304" alt="Screenshot 2024-12-03 at 5 47 01 PM" src="https://github.com/user-attachments/assets/16da4417-7908-4018-86b7-c8f893210774">
 
