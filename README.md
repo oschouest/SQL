@@ -73,7 +73,7 @@ This query identifies the most borrowed book genres by joining the books, bookCa
 
 ## Tableau Visualization 
 
-**Visualization 1:** 
+**Visualization 1:** Memberships across Branches 
 
 <img width="292" alt="Screenshot 2024-12-03 at 7 24 28 PM" src="https://github.com/user-attachments/assets/daeff4f7-e377-4300-94ef-787ce096ae6e">
 
